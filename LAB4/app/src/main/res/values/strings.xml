@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB4</string>
+    <string name="textView">點餐</string>
+    <string name="btn_choice">選擇</string>
+    <string name="textView2">確認點餐:</string>
+    <string name="tv_meal">飲料:無  甜度:無  冰塊:無</string>
+    <string name="n_n_n_n_n_n">飲料:無\n\n甜度:無\n\n冰塊:無</string>
+</resources>
